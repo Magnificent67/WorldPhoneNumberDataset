@@ -8,7 +8,6 @@ This project provides a large and detailed dataset of phone codes for countries 
 
 - **Big Phone Code Database**: Includes multiple CSV files organized by regions (e.g., Africa, Europe, Asia, etc.).
 - **Phone Number Generator**: A Python script generates random phone numbers based on country and city.
-- **Easy to Use**: Simple and lightweight script with structured data.
 
 ---
 
@@ -61,14 +60,6 @@ Enter city or note: Los Angeles
 ```
 +1 213 555-1234
 ```
-
----
-
-## Future Plans
-
-- Add more regions and data for smaller areas.
-- Improve the phone number generation logic.
-- Add validation for user inputs.
 
 ---
 
